@@ -12,6 +12,7 @@
    Dependencies: default module (found in minetest_game)
 
    Report bugs or request help on the forum topic.
+   https://forum.minetest.net/viewtopic.php?f=9&t=18427
 
 
    Installation
